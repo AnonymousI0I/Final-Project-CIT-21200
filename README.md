@@ -28,7 +28,7 @@ To view the project locally:
 View the live demo [here](https://anonymousi0i.github.io/Final-Project-CIT-21200/index.html).
 
 ## Wire Frame
-![Wireframe]([wireframe Home Page.png](https://github.com/AnonymousI0I/Final-Project-CIT-21200/blob/main/wireframe%20homepage.png))
-![Wireframe]([wireframe Content Page.png](https://github.com/AnonymousI0I/Final-Project-CIT-21200/blob/main/wireframe%20content%20page.png))
-![Wireframe]([wireframe About Page.png](https://github.com/AnonymousI0I/Final-Project-CIT-21200/blob/main/wireframe%20about%20page.png)
+([wireframe Home Page.png](https://github.com/AnonymousI0I/Final-Project-CIT-21200/blob/main/wireframe%20homepage.png))
+([wireframe Content Page.png](https://github.com/AnonymousI0I/Final-Project-CIT-21200/blob/main/wireframe%20content%20page.png))
+([wireframe About Page.png](https://github.com/AnonymousI0I/Final-Project-CIT-21200/blob/main/wireframe%20about%20page.png))
 
