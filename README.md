@@ -25,7 +25,7 @@ To view the project locally:
 2. Open any HTML file (e.g., `index.html`) in a web browser.
 
 ## Live Demo
-View the live demo [here](#). (Replace `#` with your GitHub Pages link)
+View the live demo [here](https://anonymousi0i.github.io/Final-Project-CIT-21200/index.html).
 
 ## Screenshots
 ![Wireframe](wireframe.png) (Include actual wireframe image)
