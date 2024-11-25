@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Why Sport Cars?</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        main {
+            width: 1000px;
+            height: 500px;
+            background-color: #B1E6C6;
+            border: 5px solid #659176;
+            position: relative;
+            top: 200px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 300px;
+        }
+
+        h1 {
+            padding-top: 15px;
+            text-align: center;
+        }
+
+        .flexContainer {
+            width: 96%;
+            height: 75%;
+            position: absolute;
+            top: 20%;
+            left: 2%;
+            display: flex;
+            justify-content: space-evenly;
+        }
+
+        .card {
+            height: 300px;
+            background-color: #CCE3D6;
+            border: 5px solid #659176;
+            margin: 10px;
+            padding: 10px;
+            flex: 0 1 300px;
+        }
+        
+        .card h2 {
+            text-align: center;
+            position: relative;
+            top: 25%;
+        }
+
+        @media screen and (max-width: 1050px) {
+            main {
+                width: auto;
+            }
+        }
+
+        @media screen and (max-width: 600px) {
+            .card {
+                width: 100%;
+                height: auto;
+                flex: 0 0 100%;
+                top: 5px;
+            }
+
+            .flexContainer {
+                flex-wrap: wrap;
+            }
+
+            main {
+                top: 175px;
+            }
+
+            h2 {
+                font-size: 18px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <header>Sport Cars</header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="cars.html">Sport Cars</a></li>
+                <li><a href="info.html">Why Sport Cars</a></li>
+            </ul>
+        </nav>
+
+        <main>
+            <h1>Why Sports Cars?</h1>
+
+            <div class="flexContainer">
+                <div class="card">
+                    <h2>Their designs are so captivating and powerful that they make you want to embark on adventures and truly immerse yourself in the experience. </h2>
+                </div>
+
+                <div class="card">
+                    <h2>Each drive provides a look, into the world of engineering and luxury while also delivering a sense of excitement that creates lasting memories.</h2>
+                </div>
+
+                <div class="card">
+                    <h2>Sports cars deliver speed and performance that enhance your driving experience by offering handling and an exhilarating rush.</h2>
+                </div>
+            </div>
+
+        </main>
+
+
+        <footer>Edward Efuntoye 2024</footer>
+    </div>
+</body>
+</html>
