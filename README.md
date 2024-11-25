@@ -27,5 +27,6 @@ To view the project locally:
 ## Live Demo
 View the live demo [here](https://anonymousi0i.github.io/Final-Project-CIT-21200/index.html).
 
-## Screenshots
-![Wireframe](wireframe.png) (Include actual wireframe image)
+## Wire Frame
+![Wireframe]([wireframe about page.png](https://github.com/AnonymousI0I/Final-Project-CIT-21200/blob/main/wireframe%20homepage.png)) 
+
